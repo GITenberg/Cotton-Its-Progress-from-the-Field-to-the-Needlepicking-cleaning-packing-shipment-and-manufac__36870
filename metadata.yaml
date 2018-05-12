@@ -1,0 +1,31 @@
+_repo: Cotton-Its-Progress-from-the-Field-to-the-Needlepicking-cleaning-packing-shipment-and-manufac__36870
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36870-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_issued: '2011-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36870'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HD'
+- !lcsh 'Cotton growing'
+- !lcsh 'Cotton manufacture'
+- !lcc 'SB'
+title: "Cotton, Its Progress from the Field to the Needle\r\nBeing a brief sketch\
+  \ of the culture of the plant, its picking, cleaning, packing, shipment, and manufacture"
+url: http://www.gutenberg.org/ebooks/36870
